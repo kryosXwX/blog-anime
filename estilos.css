@@ -9,3 +9,15 @@
     background-color: rgba(131, 0, 253, 0.575);
     text-align: center;
 }
+
+#footer {
+    position: absolute;
+    bottom: 0;
+    left: 0;
+    right: 0;
+    width: 400px;
+    height: 100px;
+    margin: auto;
+    text-align: center;
+    background-color: darkred;
+}
