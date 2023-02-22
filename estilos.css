@@ -21,21 +21,3 @@
     text-align: center;
     background-color: darkred;
 }
-
-#top-3-list{
-    display: flex;
-    flex-direction: column;
-    justify-content: center;
-    align-items: center;
-    text-align: center;
-    margin: 0;
-    padding: 0;
-    color: white;
-}
-
-body {
-    background-image: url(https://www.mdscc.nasa.gov/wp-content/uploads/2022/11/Orion-nebulosa.jpg);
-    background-repeat: no-repeat; 
-    background-size: cover;
-    
-}
