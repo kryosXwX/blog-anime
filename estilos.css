@@ -43,10 +43,11 @@ body {
 #mejor-escena {
     text-align: center;
     position: relative;
-    top: 30px;
+    top: 20px;
 }
 
 #p-1{
     color: white;
     text-align: center;
+    position: relative;
 }
