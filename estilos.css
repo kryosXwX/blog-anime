@@ -6,7 +6,7 @@
 #header {
     width: 400px;
     margin: 0 auto;
-    background-color: rgba(124, 0, 0, 0.575);
+    background-color: rgba(216, 104, 104, 0.575);
     text-align: center;
 }
 
@@ -19,7 +19,7 @@
     height: 100px;
     margin: auto;
     text-align: center;
-    background-color: darkred;
+    background-color: rgb(182, 83, 83);
 }
 
 #top-3-list{
